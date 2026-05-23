@@ -239,46 +239,11 @@ resume-builder/
 - **OpenAI API** account
 - **ImageKit** account
 
-### Installation
 
-1. **Clone the repository**:
-
-```console
-git clone https://github.com/elyse502/resume-builder.git
-cd resume-builder
-```
-
-2. **Install client dependencies**:
-
-```console
-cd client && npm install
-```
-
-3. **Install server dependencies**:
-
-```console
-cd ../server && npm install
-```
 
 ### Environment Setup
 
-**Client Environment (.env)**:
 
-```console
-VITE_API_BASE_URL=http://localhost:3000
-VITE_IMAGEKIT_PUBLIC_KEY=your_imagekit_public_key
-VITE_IMAGEKIT_URL_ENDPOINT=your_imagekit_url_endpoint
-```
-
-**Server Environment (.env)**:
-
-```env
-MONGODB_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret_key
-OPENAI_API_KEY=your_openai_api_key
-IMAGEKIT_PRIVATE_KEY=your_imagekit_private_key
-PORT=5000
-```
 
 4. **Start the development servers**:
 
@@ -478,10 +443,9 @@ For support, email _prakharchaudhary945@gmail.com_ or create an issue in the Git
 
 For any questions or support, please contact:
 
-- [**NIYIBIZI Elysée**](https://linktr.ee/niyibizi_PrakharWEB)👨🏿‍💻 | [Github](https://github.com/Prakhar559) | [Linkedin](https://www.linkedin.com/in/prakharchaudhary06/) | [Twitter]().
+-👨🏿‍💻 | [Github](https://github.com/Prakhar559) | [Linkedin](https://www.linkedin.com/in/prakharchaudhary06/) | 
 - **Email**: <prakharchaudhary945@gmail.com>
 
-[![LinkedIn](https://github.com/Prakhar559  style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyibizi-elys%C3%A9e/) [![@phenrysay](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Niyibizi_Elyse) [![pH-7](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prakhar559)
 
 ---
 
